@@ -1,0 +1,23 @@
+label{
+    width:100px;
+    display:inline-block;
+    margin:10px;
+}
+
+select{
+    width:100px;
+    display:inline-block;
+    margin:10px;
+}
+
+h1{
+    text-align:center
+}
+
+div{
+    text-align:center
+}
+
+body{
+    background-color:grey;
+}
